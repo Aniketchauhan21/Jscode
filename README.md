@@ -1,1 +1,1 @@
-# Jscode
+# 01 Basic of javaScript
